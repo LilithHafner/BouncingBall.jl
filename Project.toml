@@ -3,6 +3,9 @@ uuid = "6ce5e8f0-9515-4679-a116-e9dd2bf17cd2"
 authors = ["Lilith Hafner <Lilith.Hafner@gmail.com> and contributors"]
 version = "0.0.0"
 
+[deps]
+Gtk = "4c0ca9eb-093a-5379-98c5-f87ac0bbbf44"
+
 [compat]
 julia = "1"
 
