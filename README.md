@@ -10,7 +10,7 @@
 To install this software on Linux or Mac, run the following command:
 
 ```
-curl -fLsS https://raw.githubusercontent.com/lilithhafner/quickdraw/main/script | sh -s https://github.com/LilithHafner/BouncingBall.jl
+curl -fLsS https://lilithhafner.com/quickdraw | sh -s https://github.com/LilithHafner/BouncingBall.jl
 ```
 
 To install this software on Windows, install Julia and then run the following command:
