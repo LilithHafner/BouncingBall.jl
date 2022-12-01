@@ -5,7 +5,7 @@
 [![Build Status](https://github.com/LilithHafner/BouncingBall.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/LilithHafner/BouncingBall.jl/actions/workflows/CI.yml?query=branch%3Amain)
 [![Coverage](https://codecov.io/gh/LilithHafner/BouncingBall.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/LilithHafner/BouncingBall.jl)
 
-# Installation using Quickdraw
+# Installation using [Quickdraw](https://github.com/LilithHafner/quickdraw)
 
 To install this software on Linux or Mac, run the following command:
 
